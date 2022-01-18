@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Party Planner</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello, click next for instructions</string>
+    <string name="hello_second_fragment">Click the button in the bottom right hand corner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="party_name">Untitled Party</string>
+    <string name="party_location">Unknown Location</string>
+    <string name="party_date">Unknown Date</string>
+    <string name="main_label">My Parties</string>
+    <string name="custom_dialog">New Party</string>
+    <string name="dialog_name">Party name</string>
+    <string name="dialog_location">Location</string>
+    <string name="dialog_submit">Throw party</string>
+    <string name="invite_people">Invite More People</string>
+    <string name="edit_submit">Confirm Changes</string>
+    <string name="accept_invite">Accept Invite</string>
+    <string name="decline_invite">Decline Invite</string>
+    <string name="invite_dialog_title">Invite someone</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="sql_ip">172.25.80.1</string>
+    <string name="sql_port">1433</string>
+    <string name="sql_database">PartyPlanner</string>
+    <string name="sql_user">gabriel</string>
+    <string name="sql_pass">1q2w3e</string>
+    <!--    <string name="edit_submit">Confirm Changes</string>-->
+<!--    <string name="edit_submit">Confirm Changes</string>-->
+<!--    <string name="edit_submit">Confirm Changes</string>-->
+</resources>
